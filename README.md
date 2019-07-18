@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi man:
+
+Hubot  i am tri i want to control human
